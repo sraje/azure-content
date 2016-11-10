@@ -1,5 +1,5 @@
 <properties 
-	pageTitle="Overview of Live Steaming using Azure Media Services | Microsoft Azure" 
+	pageTitle="Overview of Live Streaming using Azure Media Services | Microsoft Azure" 
 	description="This topic gives an overview of live steaming using Azure Media Services." 
 	services="media-services" 
 	documentationCenter="" 
